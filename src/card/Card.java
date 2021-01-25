@@ -12,7 +12,7 @@ package card;
  */
 public class Card {
 
-    private String suit; //test comment
+    private String suit;
     //Hearts,Spades,Diamonds,Clubs
 
         private int value;
